@@ -1,2 +1,2 @@
 # aoc2020
-Advent of Code 2020 attempts
+My Python scripts in an attempt to solve the 2020 Advent of Code puzzles.
